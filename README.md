@@ -20,4 +20,3 @@ TP: 1.08359 (July 8, 10:00)
 SL: 1.06851 
  💸💸💸
 
-Translated with DeepL.com (free version)
