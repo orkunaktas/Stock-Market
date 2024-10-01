@@ -13,7 +13,7 @@ July 12 13:30 - SELL
 we kept our first trade open until the second signal and made a profit of 2.38%
 I still haven't closed the second transaction and it's now down 9.36%. 
 
-According to my July analysis, if we had used the indicator on the EURUSD pair, we would have made a 122% profit on one trade between July 2nd and July 8th alone.
+According to my July analysis, if we had used the indicator on the EURUSD pair, we would have made a 122% profit on one trade between July 2nd and July 8th alone...
 
 ENTRY: 1.07161
 TP: 1.08359 (July 8, 10:00)
